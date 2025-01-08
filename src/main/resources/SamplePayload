@@ -1,0 +1,10 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "department": "Engineering",
+  "age": 29,
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "Chennai",
+  "salary": 95000
+}
